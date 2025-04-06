@@ -31,9 +31,15 @@ I'm a high school junior in the **Electrical-Electronics** department with a dee
 
 ---
 
+### 📬 Contact:
+- 📧 Email: emirarslan0026@gmail.com
+
+---
+
 ### 🎯 My Goal:
 To become an expert in AI, build inspiring projects, and share knowledge to help others. I don’t believe in “I can’t”—just “I haven’t tried it yet.”
 
 ---
 
 > “Everything you can imagine is possible. Just add some code, coffee, and patience.” ☕👨‍💻
+
